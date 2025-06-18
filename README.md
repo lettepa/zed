@@ -1,12 +1,12 @@
 # .template
 
-Lettepa for [???]
+Lettepa for [Zed]
 
-[???]: this_is_a_placeholder
+[Zed]: https://github.com/zed-industries/zed
 
 ## License
 
-Like [Lettepa], the ??? port of Lettepa is licensed under the [MIT License].
+Like [Lettepa], the Zed port of Lettepa is licensed under the [MIT License].
 
 [Lettepa]: https://github.com/lettepa/lettepa
 [MIT License]: LICENSE
