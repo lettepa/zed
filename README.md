@@ -1,4 +1,4 @@
-# .template
+# Zed
 
 Lettepa for [Zed]
 
